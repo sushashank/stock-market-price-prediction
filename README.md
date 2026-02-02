@@ -22,7 +22,6 @@ This project analyzes historical stock market data and predicts stock prices usi
 ```bash
 pip install -r requirements.txt
 python stock_price_prediction_ml.py
-
+```
 ## 👨‍🎓 Author
-
 Shashank
